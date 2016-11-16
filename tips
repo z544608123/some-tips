@@ -1,3 +1,5 @@
+一、针对form
+
 1、下拉列表
    <select>
       <option></option>
@@ -7,3 +9,7 @@
 2、可自动调节的文本输入框
    <textarea cols=" " rows" ">
    </textarea>
+   
+   
+ 二、table
+1、 一行对应多列，e.g:把一个单元格拆成两列 colspan="2"
