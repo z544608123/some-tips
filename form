@@ -1,0 +1,9 @@
+1、下拉列表
+   <select>
+      <option></option>
+   </select>
+   
+   
+2、可自动调节的文本输入框
+   <textarea cols=" " rows" ">
+   </textarea>
