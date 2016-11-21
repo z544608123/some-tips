@@ -1,0 +1,7 @@
+1、如何外部链接css样式
+  在.html里面，直接使用<link href=".css" rel="stylesheet" type="text/css"/>，不需要加<style></style>
+  在.css里面，直接使用span{}
+  
+2、列表<li></li>
+   如果需要横向排列，则定义样式 li{float:left}
+  
