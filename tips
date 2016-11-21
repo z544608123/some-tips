@@ -13,3 +13,29 @@
    
  二、table
 1、 一行对应多列，e.g:把一个单元格拆成两列 colspan="2"
+
+
+三、转义字符
+1、&nbsp;   " "      no-break space = non-breaking space
+2、&lt;     "<"      less-than sign
+3、&gt;     ">"      greater-than sign
+4、&amp;    "&"      ampersand
+5、&quot;   """"     quotation mark = APL quote
+
+四、列表
+1、有序列表 
+   <ol>
+      <li></li>
+   </ol>
+2、无序列表
+   <ul>
+      <li></li>
+   </ul>
+3、自定义列表
+   <dl>
+      <dt>名词</dt>
+      <dd>解释</dd>
+   </dl>
+
+五、表格(table)和表单(form)
+    table显示数据  form收集数据
